@@ -1,0 +1,33 @@
+# Unirse a los design sprint
+
+## Design thinking: Un framework de diseño UX
+
+
+Esta sección del curso se centra en un marco de trabajo centrado en el usuario, específicamente el marco de Design thinking, este que guía a los diseñadores de UX en la resolución de problemas y la creación de soluciones efectivas.
+
+Fases del marco de Design thinking
+
+![Texto alternativo](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/GG-UjxAJTjqvlI8QCc46CA_56b42a56f7534b9d80437b91462f53d8_UX_C1_M2_L2_R1_C-01.png?expiry=1755820800000&hmac=RyBboFucHLqZ0dFDg7DK2jzMVNad2Lh3Z6Fj4NZ3-Gc)
+
+
+- **Empatizar**: Aprender sobre los usuarios, sus problemas y el contexto en el que interactuarán con el diseño. Esto incluye realizar investigaciones como encuestas y entrevistas.
+
+- **Definir**: Analizar los hallazgos de la fase de empatía para identificar los problemas más importantes a resolver y formular una declaración clara del problema.
+Generación de ideas y prototipado
+
+- **Idear**: Generar una amplia gama de soluciones de diseño a través de sesiones de lluvia de ideas, sin juzgar las ideas en esta etapa inicial.
+- **Prototipar y probar**: Crear modelos iniciales del producto y realizar pruebas continuas para refinar el diseño basado en la retroalimentación del usuario.
+Conclusiones clave
+
+El marco de design thinking es iterativo, lo que significa que se pueden repetir fases según sea necesario.
+Los principios comunes incluyen enfocarse en el usuario, colaborar con equipos y validar diseños a través de pruebas.
+
+### Puntos clave
+
+El marco del design thinking es sólo un tipo de marco que los diseñadores de UX utilizan para organizar su enfoque de los diseños, a menudo en función del producto que estén diseñando y de la organización para la que trabajen. Independientemente de los frameworks que utilicen en su carrera, todos tienen unos cuantos principios básicos en común:
+
+- Centrarse en el usuario.
+- Crear soluciones que aborden los problemas del usuario.
+- Colaborar con compañeros de todos los departamentos.
+- Validar los diseños.
+- Iterar cuando sea necesario para diseñar la experiencia del usuario adecuada.
