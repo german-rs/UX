@@ -7,7 +7,7 @@ Esta sección del curso se centra en un marco de trabajo centrado en el usuario,
 
 Fases del marco de Design thinking
 
-![Texto alternativo](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/GG-UjxAJTjqvlI8QCc46CA_56b42a56f7534b9d80437b91462f53d8_UX_C1_M2_L2_R1_C-01.png?expiry=1755820800000&hmac=RyBboFucHLqZ0dFDg7DK2jzMVNad2Lh3Z6Fj4NZ3-Gc)
+![Fases de Design thinking](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/GG-UjxAJTjqvlI8QCc46CA_56b42a56f7534b9d80437b91462f53d8_UX_C1_M2_L2_R1_C-01.png?expiry=1755820800000&hmac=RyBboFucHLqZ0dFDg7DK2jzMVNad2Lh3Z6Fj4NZ3-Gc)
 
 
 - **Empatizar**: Aprender sobre los usuarios, sus problemas y el contexto en el que interactuarán con el diseño. Esto incluye realizar investigaciones como encuestas y entrevistas.
@@ -31,3 +31,10 @@ El marco del design thinking es sólo un tipo de marco que los diseñadores de U
 - Colaborar con compañeros de todos los departamentos.
 - Validar los diseños.
 - Iterar cuando sea necesario para diseñar la experiencia del usuario adecuada.
+
+### Recursos para más información
+
+- [Design thinking 101 por Nielsen Norman Group](https://www.youtube.com/watch?v=6lmvCqvmjfE)
+- [The Design thinking Process - An Introduction (2021) por CareerFoundry](https://www.youtube.com/watch?v=Tvu34s8iMZw)
+- [Proceso de diseño de UX: Everything You Need to Know de Adobe](https://xd.adobe.com/ideas/guides/ux-design-process-steps/)
+- [¿Qué es el design thinking? de The Diseño de interacciones Foundation](https://www.interaction-design.org/literature/topics/design-thinking)
