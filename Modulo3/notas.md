@@ -41,7 +41,7 @@ El marco del design thinking es sólo un tipo de marco que los diseñadores de U
 
 ## Diseño de UX Requisitos de negocio (Business-to-Business)
 
-Esta sección se centra en el proceso de pensamiento de diseño, que es un enfoque centrado en el usuario y en múltiples etapas para resolver problemas en el diseño de experiencias.
+Esta seción del curso se centra en el proceso de pensamiento de diseño, que es un enfoque centrado en el usuario y en múltiples etapas para resolver problemas en el diseño de experiencias.
 
 ### Fases del pensamiento de diseño
 
@@ -62,3 +62,26 @@ Un dueño de una panadería contrata a un diseñador UX para crear un sitio web 
 - Los requisitos empresariales son fundamentales y deben considerarse en cada etapa del proceso de pensamiento de diseño.
 - Los diseñadores UX efectivos comprenden y adaptan su trabajo a estos requisitos a lo largo del proyecto.
 
+## Fase 1: Empatizar con los usuarios
+
+![Fases de Design thinking](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/GG-UjxAJTjqvlI8QCc46CA_56b42a56f7534b9d80437b91462f53d8_UX_C1_M2_L2_R1_C-01.png?expiry=1755820800000&hmac=RyBboFucHLqZ0dFDg7DK2jzMVNad2Lh3Z6Fj4NZ3-Gc)
+
+- Comprensión profunda: Los diseñadores UX deben entender las emociones, pensamientos y experiencias de los usuarios sin prejuicios. Esta conexión permite crear productos que aborden problemas reales y satisfagan necesidades a largo plazo.
+
+- Conexión con los usuarios: La empatía no solo se centra en los usuarios como consumidores, sino como seres humanos con historias y contextos únicos, lo que enriquece el proceso de diseño.
+
+### Métodos para empatizar con los usuarios
+
+- Entrevistas: Se utilizan diversas formas de entrevistas, incluyendo cuestionarios, entrevistas en persona, por teléfono y video. Los diseñadores deben planificar estas entrevistas considerando el tipo de información necesaria y los recursos disponibles (tiempo, presupuesto).
+
+- Mapas de empatía: Después de las entrevistas, los diseñadores pueden utilizar mapas de empatía para organizar la información recopilada. Estos mapas responden a cinco preguntas clave sobre los usuarios: quiénes son, qué dicen, qué piensan, qué hacen y qué sienten respecto a sus experiencias.
+
+### Creación de personas de usuario
+
+- Definición de personas: Las personas son representaciones ficticias de grupos de usuarios que ayudan a los diseñadores a sintetizar grandes volúmenes de información en perfiles manejables. Por ejemplo, una persona puede representar a un cliente mayor que prefiere realizar pedidos por teléfono debido a su conexión emocional con el personal de la panadería.
+
+- Uso de personas en el diseño: Estas representaciones permiten a los diseñadores mantener el enfoque en las necesidades del usuario a lo largo del proceso de diseño y facilitar la comunicación de sus decisiones a los interesados, utilizando historias que contextualizan sus elecciones de diseño.
+
+### Conclusión
+
+En la fase de empatía del proceso de diseño, los diseñadores UX buscan comprender a sus usuarios a través de diversas técnicas de investigación. El objetivo es identificar problemas, deseos y situaciones de los usuarios para crear productos que ofrezcan experiencias satisfactorias, todo mientras se consideran los requisitos comerciales clave como el tiempo y el presupuesto.
