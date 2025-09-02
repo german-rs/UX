@@ -38,3 +38,27 @@ El marco del design thinking es sólo un tipo de marco que los diseñadores de U
 - [The Design thinking Process - An Introduction (2021) por CareerFoundry](https://www.youtube.com/watch?v=Tvu34s8iMZw)
 - [Proceso de diseño de UX: Everything You Need to Know de Adobe](https://xd.adobe.com/ideas/guides/ux-design-process-steps/)
 - [¿Qué es el design thinking? de The Diseño de interacciones Foundation](https://www.interaction-design.org/literature/topics/design-thinking)
+
+## Diseño de UX Requisitos de negocio (Business-to-Business)
+
+Esta sección se centra en el proceso de pensamiento de diseño, que es un enfoque centrado en el usuario y en múltiples etapas para resolver problemas en el diseño de experiencias.
+
+### Fases del pensamiento de diseño
+
+- Empatizar con los usuarios: Comprender sus necesidades y experiencias.
+- Definir necesidades: Identificar los problemas que se deben resolver.
+
+### Requisitos empresariales
+
+- Objetivos: Describir a los usuarios a los que se dirige el diseño y los resultados deseados.
+- Parámetros: Incluir presupuesto, cronograma y herramientas necesarias para el proyecto.
+
+### Ejemplo práctico
+
+Un dueño de una panadería contrata a un diseñador UX para crear un sitio web que facilite pedidos en línea, manteniendo la conexión directa con los clientes y cumpliendo con un presupuesto y tiempo limitados.
+
+### Conclusiones clave
+
+- Los requisitos empresariales son fundamentales y deben considerarse en cada etapa del proceso de pensamiento de diseño.
+- Los diseñadores UX efectivos comprenden y adaptan su trabajo a estos requisitos a lo largo del proyecto.
+
